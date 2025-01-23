@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\app-teste-devops.props" />
+</Project>

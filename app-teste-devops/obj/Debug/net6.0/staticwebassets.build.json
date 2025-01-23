@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KHAL8b9/OYU7d3ATPwqG+BpDzvyqWM7VRQTCaAwMw0g=",
+  "Source": "app-teste-devops",
+  "BasePath": "_content/app-teste-devops",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
